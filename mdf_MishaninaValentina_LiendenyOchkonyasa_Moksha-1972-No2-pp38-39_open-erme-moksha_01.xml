@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+    xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
+    xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+    xml:lang="mdf"
+    title_mdf="Лиендень очконяса"
+    genre_mdf="азкс"
+    birth_geo_mdf="Кадошкина аймаконь Адаж веле"
+    author_first_name="Валентина"
+    author_last_name="Мишанина"
+    author_patronym="Ивановна"
+    native_language="mdf"
+    publicationName="Мокша"
+    publicationPlace=""
+    publicationYear="1972"
+    publisher="Мокша"
+    publication_issue_no="2"
+    characterCount=""
+    wordCount=""
+    first_page="38"
+    last_page="39"
+    correctionYear="2012"
+    corrector_first_name="Jack"
+    corrector_last_name="Rueter"
+    status_eng="scientific"
+    status_fin="tieteellinen">
+  <sentence text="Эрь шиня стяшендан табуреткать лангс и кяднень венепнесайне поталакти, а поталаксь нинге вяре, вяре." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:0"/>
+  <sentence text="Тоса кизефтине алязень, мзярда касан." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:1"/>
+  <sentence text="И мон лийкстань." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:10"/>
+  <sentence text="Мон седишкада ванондан веленьконь велькска лиенди самолёттнень мельге и сельмотькшнян." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:11"/>
+  <sentence text="Брадозень гулянянза учёнайхть, нолдасайть воляс ― лиендихть-тиихть и меки мрдайхть." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:12"/>
+  <sentence text="И уендихть сенем менельть потмоса, кода оцю морява." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:13"/>
+  <sentence text="Кончайне сельмонень." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:14" text_eng="I closed my eyes."/>
+  <sentence text="Весть самолётса лиендемась прясон шарсь мадомста." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:15"/>
+  <sentence text="Сясы синь сембе и лётчикт, и космонавтт." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:16"/>
+  <sentence text="Алязтиге азондыне арьсеманень, а сон пеедезевсь и корхтай:" sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:17"/>
+  <sentence text="Очконясь велясь пильгозень лангс и цють ашезе синде." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:18"/>
+  <sentence text="Ашень кеподев теест, эрявсь лездомс." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19"/>
+  <sentence text="Очконять аноконди ни куцфтине карденя пряв." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:2"/>
+  <sentence text="А касан пяк савор, нинге школавка аф якан." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:20"/>
+  <sentence text="И сргозень." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:21"/>
+  <sentence text="Эста самолётовок теень афоль эряв, келептелине пацянень и лиелень коволхненди." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:22"/>
+  <sentence text="Ашень кирде эста, аварьгодонь оцю вайгяльхть..." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:23"/>
+  <sentence text="Савор касан." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:24"/>
+  <sentence text="Афи шарьхкодень, кода лаподень карденя пряста." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:25"/>
+  <sentence text="― Кемоньшка кизоня ётай, касат, козонга аф туят." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:26"/>
+  <sentence text="― А мон ашень абонда, мярьгонь:" sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27"/>
+  <sentence text="Тоса сотнине гулянятнень очконять ужеванза и монць озань эзонза." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:28"/>
+  <sentence text="Арьсень, лиян ни, панжине сельмонень, а мон станяк карденя прясан." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:29"/>
+  <sentence text="Сяльде мялезень петемс сон рамась самолёткя." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:3"/>
+  <sentence text="Рамаль хуш тядязень муськома очконц эшка." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:30"/>
+  <sentence text="Монць эрь шиня мастярлан самолётт,и лийфнесайне няканень." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:31"/>
+  <sentence text="Ну, кли онцтон, пара: гулянять пацяняц апак синтть." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:32"/>
+  <sentence text="Эста сельмоведьботмоса пеняцянь тядязти,мес аф нармоненди шачфтомань." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:33"/>
+  <sentence text="Тоса ванан: фкя гулянясь сутямсь и ащи фкя вастса, а сонь, беднаять, пацяняц синдевсь." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:34"/>
+  <sentence text="А мезе кда рамась,аньцек налхксемс, а мон ёран лиендемс." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:35"/>
+  <sentence text="Лётчикне, улема, кядьса токсесазь коволнятнень." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:36"/>
+  <sentence text="А кодама цебярь лиемась!" sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:37"/>
+  <sentence text="Гулянятнень либорьфсна." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:38"/>
+  <sentence text="Улхкомба брадозень гулянянь куднястонза сявонь кафта досканят самолётонь пацянди, а сон тянкса пиксомань." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:39"/>
+  <sentence text="Сон корхтай:" sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:4"/>
+  <sentence text="Сявонь пикскя, сувань гулянянь карденяв, пельгта сотонь вете гулянят." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:40"/>
+  <sentence text="Арьсян, моньге лийфнесамазь-тисамазь и валхтсамазь." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:41"/>
+  <sentence text="― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:42" text_eng="If you had been born a boy, your life would have gone better, you might have been a pilot, too"/>
+  <sentence text="― Терешкова панчсь теень ки." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:43"/>
+  <sentence text="Касондярян, улян лётчикокс." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:44"/>
+  <sentence text="Тяни ёран тиемда оцю самолёт,аньцек коданга аф лисенди." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:5" text_eng="Now I'm trying to make a big airplane but it just isn't working out."/>
+  <sentence text="Аньцек ужяль, мес кичкор мадя Мишазе кулось геройкс, мзярда пятналангста валгсь парашютса." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:6"/>
+  <sentence text="Кда сизелень, ковол лангс озалень." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:7" text_eng="When I got tired, I would sit down on a cloud."/>
+  <sentence text="Ладяйне прокс пеняти очконять, пильгса орхкадине и аф вяри лиема тунь, а алу." sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:8"/>
+  <sentence text="Кали тя ульсь онцтон?" sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:9"/>
+</text>
