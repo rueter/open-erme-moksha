@@ -48,6 +48,8 @@ Mishanina, Valentina (Мишанина, Валентина). 1974. Sijan’ Raka
 
 Mishanina, Valentina (Мишанина, Валентина). 1993. Ozks tumot’ taradonza (Озкс тумоть тарадонза). – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. (Born: Adashevo, Insarski raion = Kadoshkinski raion, Mordovia)
 
+Mishanina, Valentina (Мишанина, Валентина). 2002. Vaľmaftoma kud (Вальмафтома куд). – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. (Born: Adashevo, Insarski raion = Kadoshkinski raion, Mordovia)
+
 Moisev, Mikhail. 1997. Odu af niajsamast’. – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. (Born: Moscow << Starye Pichury, Torbeevski raion, Mordovia)
 
 Mokshoni, Aleksej. 1998. Moncen’ janoze. – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. (Born: Lopatina, Torbeevski raion, Mordovia)
