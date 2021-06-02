@@ -19,6 +19,7 @@ Where possible, time and place of birth is provided for the improvement of diale
 The list of writers to be made available in the Moksha portion of Erme include:
 
 | Publication | Year of birth | Place of Birth |
+|---------------------------------------------------------|------------|--------------------------------------------|
 | Alioshkin, Andrei (Алёшкин, Андрей). 1989. *Ar’semat (Арьсемат)*. – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. | 1935 | Tiumen’ski Oblast’ |
 
 | Beban, Maksim (Бебан, Максим). 1995. *Tundan’ narmott’ (Тундань нармотть)*. – Saransk: Mordovskiaj knizhnaj izdatel’stvas’. | 1913 | Keretina = kovylkinski raion, Mordovia |
